@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_back.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_back.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_shrink.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_shrink.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.awesomeproject.app-main-31:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_loadericon.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_loadericon.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_play.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_play.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.awesomeproject.app-main-31:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_expand.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_expand.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_shrink.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_shrink.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_play.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_play.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_erroricon.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_erroricon.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_topvignette.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_topvignette.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_volume.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_volume.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_back.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_back.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_expand.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_expand.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.awesomeproject.app-main-31:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_topvignette.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_topvignette.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_loadericon.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_loadericon.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-mdpi_assets_images_placeholder.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-mdpi/assets_images_placeholder.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_bottomvignette.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_bottomvignette.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_shrink.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_shrink.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.awesomeproject.app-main-31:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_bottomvignette.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_bottomvignette.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_erroricon.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_erroricon.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.awesomeproject.app-main-31:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.awesomeproject.app-main-31:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_loadericon.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_loadericon.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-mdpi_assets_images_movies.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-mdpi/assets_images_movies.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_pause.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_pause.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_play.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_play.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.awesomeproject.app-main-31:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-xxhdpi_node_modules_reactnativevideocontrols_assets_img_topvignette.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-xxhdpi/node_modules_reactnativevideocontrols_assets_img_topvignette.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_volume.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_volume.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_erroricon.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_erroricon.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_pause.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_pause.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_back.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_back.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.awesomeproject.app-main-31:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_volume.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_volume.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_expand.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_expand.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-mdpi_node_modules_reactnativevideocontrols_assets_img_pause.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-mdpi/node_modules_reactnativevideocontrols_assets_img_pause.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.awesomeproject.app-main-31:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-xhdpi_node_modules_reactnativevideocontrols_assets_img_bottomvignette.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_bottomvignette.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.awesomeproject.app-main-31:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.awesomeproject.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.awesomeproject.app-merged_res-30:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.awesomeproject.app-res-24:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    }
+]
